@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{document.querySelectorAll('.play').forEach(p=>p.onclick=()=>alert('Demo video player — this would be replaced with Sam’s embedded YouTube video.'));let b=document.querySelector('#chat');if(b)b.onclick=()=>alert('GHL / Closebot live chat would open here.');});
